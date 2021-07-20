@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fbde6c0-0d1f-4ef5-9b9a-cc9128c8b021" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/TutorDashboardController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/TutorDashboardController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/TutorDashboardController$BackListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/TutorDashboardController$BackListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/TutorDashboardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/TutorDashboardController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/ViewOwnBidsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/ControllerClasses/ViewOwnBidsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ModelClasses/StudentTutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/ModelClasses/StudentTutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ViewClasses/ChooseTutorUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/ViewClasses/ChooseTutorUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/testing.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MakeOfferUI" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\programs\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rd9hpqb6IK2GM8d9bjjxgGc6Nw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="226" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assignment 2/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment 2/src/ViewClasses" />
+      <recent name="$PROJECT_DIR$/Assignment 2/src" />
+      <recent name="$PROJECT_DIR$/Assignment 2/src/UI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment 2/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testing" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing" />
+      <module name="Assignment2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fbde6c0-0d1f-4ef5-9b9a-cc9128c8b021" name="Default Changelist" comment="" />
+      <created>1619295221793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619295221793</updated>
+    </task>
+    <task id="LOCAL-00001" summary="merge">
+      <created>1619295850529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619295850529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modified action class to contain the action name and UI corresponding to that action.&#10;&#10;User classes now have an arraylist of actions and homepage now make buttons according to those user actions.&#10;&#10;There are now interfaces that create action arraylist containing actions for specific types of users.&#10;&#10;Implemented view offer UI for looking at open bidding offers for bids.">
+      <created>1619432572591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619432572591</updated>
+    </task>
+    <task id="LOCAL-00003" summary="merge">
+      <created>1619432823965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619432823965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="merge">
+      <created>1619432884301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619432884301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge&#10;&#10;added &quot;ViewOwnBidsUI&quot; so that students and student tutors can view their own bids that they made.&#10;&#10;Changed MakeBid interface to include &quot;havePrivateOffers&quot; field in additional information&#10;&#10;Changed ViewOffersUI to have buyout button for the students or student tutors to accept offer. (accepting offer is not implemented yet, the button just does nothing yet)">
+      <created>1619508392877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619508392877</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created GetContract, GetContracts, DeleteContract and MakeContract interfaces">
+      <created>1619513424942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619513424942</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added delete button to ViewOwnBidsUI">
+      <created>1619529532787</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619529532787</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added delete button to ViewOwnBidsUI">
+      <created>1619529537016</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619529537016</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed merge">
+      <created>1619531257108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619531257108</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed merge">
+      <created>1619531268188</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619531268188</updated>
+    </task>
+    <task id="LOCAL-00011" summary="User sub classes now in charge of finding their bids and contracts that will be displayed.&#10;&#10;User class now have a function to update the UIs of its actions.&#10;&#10;Added ViewContractUI.&#10;&#10;Deleted makePrivateOfferUI and changed MakePublicOfferUI to MakeOfferUI that can make offers for both closed and open bids.">
+      <created>1619678631515</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619678631516</updated>
+    </task>
+    <task id="LOCAL-00012" summary="User sub classes now in charge of finding their bids and contracts that will be displayed.&#10;&#10;User class now have a function to update the UIs of its actions.&#10;&#10;Added ViewContractUI.&#10;&#10;Deleted makePrivateOfferUI and changed MakePublicOfferUI to MakeOfferUI that can make offers for both closed and open bids.">
+      <created>1619678648020</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619678648020</updated>
+    </task>
+    <task id="LOCAL-00013" summary="MakeBid takes parameter for type of bid created (open/close)">
+      <created>1619679182740</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619679182741</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Tutor class now searches for contracts tutor is a part of and checks if bids are contract bids before selecting it as available bids.&#10;&#10;HomePageUI now adds a log out button by itself rather than relying on user actions for the log out button.">
+      <created>1619688837364</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619688837364</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Removed bid ID in contract additional information because once a contract is made, the bid will be deleted.&#10;&#10;Made appropriate changes to User classes for this change.">
+      <created>1619690190115</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619690190115</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Buy out button in ViewOffersUI now delete bi=ought out bid when button is clicked">
+      <created>1619692569756</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1619692569756</updated>
+    </task>
+    <task id="LOCAL-00017" summary="merge">
+      <created>1619861596037</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1619861596037</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Remove unsettled bid's involvement from tutor Action class and changed the relevant user subclasses that are affected by it.&#10;&#10;Contracts are now automatically formed between open bid maker's and the last offer maker in that bid.&#10;&#10;This contract creation and closing of those bids occurs in student class and studentTutor class.">
+      <created>1619930513187</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1619930513187</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Deleted PUT interface and added a constructor to UI class and made appropriate changes to it's sub classes">
+      <created>1619938851339</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1619938851339</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HomePage does not have user as a parameter anymore">
+      <created>1619946925862</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1619946925862</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Deleted testing class">
+      <created>1619946959245</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1619946959245</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Created MakeChangeUIButton to create buttons that can change the UI. and made classes that needs this function, implement this interface.&#10;&#10;Remove &quot;reject&quot; contract button for ViewContractUI for tutors">
+      <created>1619949093582</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1619949093582</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Commit unversioned files">
+      <created>1619949126768</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1619949126768</updated>
+    </task>
+    <task id="LOCAL-00024" summary="UI now uses View to change window UI instead of using Main.">
+      <created>1619959924994</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1619959924994</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added video demonstration">
+      <created>1619969660692</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1619969660692</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added contribution analytics">
+      <created>1619970000283</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1619970000283</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added LoginController for loginUI&#10;updated main to create a new instance of login controller">
+      <created>1620772261548</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1620772261548</updated>
+    </task>
+    <task id="LOCAL-00028" summary="merge">
+      <created>1620772289641</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1620772289641</updated>
+    </task>
+    <task id="LOCAL-00029" summary="merge">
+      <created>1620772311351</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1620772311351</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Completed refactoring for MVC Architecture.&#10;&#10;Commented out old code.&#10;&#10;added function in ViewOfferController to create a button for students to accept closed offers to their bids">
+      <created>1621096902119</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1621096902119</updated>
+    </task>
+    <task id="LOCAL-00031" summary="removed all commented out old code and deleted unnecessary implementations from UI classes">
+      <created>1621097817634</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1621097817634</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Implemented contract duration into make bid process and have this information displayed whenever someone looks at a bid">
+      <created>1621507555382</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1621507555382</updated>
+    </task>
+    <task id="LOCAL-00033" summary="merge">
+      <created>1621507761593</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1621507761593</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added selectable contract duration in make bid UI and changed makeContract interface class to take this contract duration into consideration.&#10;&#10;Added a way to detect if there are expired contracts for students and tutors can only see contracts that are not expired.&#10;&#10;Created a view expired contract page for students to renew or reuse expired contracts.">
+      <created>1621592607565</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1621592607565</updated>
+    </task>
+    <task id="LOCAL-00035" summary="- Added Patch Interface for PATCH request&#10;- a testing class is added to test if the PATCH request is working (will be removed)&#10;- A new package named PatchInterface is added &#10;- A new interface named UpdateMessage is added to allow user to update existing message">
+      <created>1621638491994</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1621638491994</updated>
+    </task>
+    <task id="LOCAL-00036" summary="- Added TutorDashBoard ui and controller&#10;- Removed TODO items in PATCH and UpdateOfferController&#10;- Added new Action TutorDashBoard into TutorActions&#10;- Added a Button to allow user to subscribe to bids in ViewBidsController&#10;- Create a new patch interface UpdateBid to update additional info in the bid&#10;- Note: Timer is not working as it is called before user clicked on the page.">
+      <created>1621731799604</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1621731799604</updated>
+    </task>
+    <task id="LOCAL-00037" summary="- Added TutorDashBoard ui and controller&#10;- Removed TODO items in PATCH and UpdateOfferController&#10;- Added new Action TutorDashBoard into TutorActions&#10;- Added a Button to allow user to subscribe to bids in ViewBidsController&#10;- Create a new patch interface UpdateBid to update additional info in the bid&#10;- Note: Timer is not working as it is called before user clicked on the page.">
+      <created>1621731810086</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1621731810086</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Made a notification system that displays contracts that will expire in 1 month that is only shown once for both parties of the contract.&#10;&#10;added new fields into contract's additionalInfo field. they are &quot;offer&quot;, &quot;studentSeen&quot; and &quot;tutorSeen&quot;.&#10;&#10;offer - boolean to state whether this contract is an offer for renewal or reuse&#10;&#10;studentSeen - boolean to know if the student of the contract have seen the notification that the contract will expire in 1 month.&#10;&#10;tutorSeen - boolean to know if the tutor of the contract have seen the notification that the contract will expire in 1 month.">
+      <created>1621917709773</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1621917709773</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Student can now renew or reuse expired contracts.&#10;&#10;Student can change the contract's terms of engagement before renewing or reusing.&#10;&#10;Note: Tutors can not see the offer contracts yet">
+      <created>1621965820532</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1621965820532</updated>
+    </task>
+    <task id="LOCAL-00040" summary="merge">
+      <created>1621985475750</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1621985475750</updated>
+    </task>
+    <task id="LOCAL-00041" summary="- Added a method in View to get the last UI page&#10;- MakeOfferUI and UpdateOfferUI returns to the correct last UI page when the back button or when the offer is made/updated&#10;- Removed spacing between offer and button in TutorDashboardController&#10;- TutorDashboardController only shows active subscribed bids">
+      <created>1622039402154</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1622039402154</updated>
+    </task>
+    <task id="LOCAL-00042" summary="removed println statement for debugging purpose in TutorDashboardController">
+      <created>1622039489027</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1622039489027</updated>
+    </task>
+    <task id="LOCAL-00043" summary="- Fixed subscribe button issue&#10;- Fixed timer issue in TutorDashboardController">
+      <created>1622043103832</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1622043103832</updated>
+    </task>
+    <task id="LOCAL-00044" summary="moved classes and interfaces into packages">
+      <created>1622128150547</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1622128150547</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fixed button text of UI's button that where changed when classes wre moved to packages">
+      <created>1622134066762</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1622134066762</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fixed messages in code that uses &quot;Tutor&quot; and &quot;Student&quot;. This is due to the time when we moved the classes into respective packages">
+      <created>1622207337514</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1622207337514</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added demo video">
+      <created>1622208680116</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1622208680116</updated>
+    </task>
+    <task id="LOCAL-00048" summary="deleted testing.java.">
+      <created>1622212907631</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1622212907631</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Upload contribution_analytics, cover sheet, class diagram &amp; design rationale">
+      <created>1622215981654</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1622215981654</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.rar" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deleted testing class" />
+    <MESSAGE value="Created MakeChangeUIButton to create buttons that can change the UI. and made classes that needs this function, implement this interface.&#10;&#10;Remove &quot;reject&quot; contract button for ViewContractUI for tutors" />
+    <MESSAGE value="Commit unversioned files" />
+    <MESSAGE value="UI now uses View to change window UI instead of using Main." />
+    <MESSAGE value="Added video demonstration" />
+    <MESSAGE value="Added contribution analytics" />
+    <MESSAGE value="Added LoginController for loginUI&#10;updated main to create a new instance of login controller" />
+    <MESSAGE value="Completed refactoring for MVC Architecture.&#10;&#10;Commented out old code.&#10;&#10;added function in ViewOfferController to create a button for students to accept closed offers to their bids" />
+    <MESSAGE value="removed all commented out old code and deleted unnecessary implementations from UI classes" />
+    <MESSAGE value="Implemented contract duration into make bid process and have this information displayed whenever someone looks at a bid" />
+    <MESSAGE value="Added selectable contract duration in make bid UI and changed makeContract interface class to take this contract duration into consideration.&#10;&#10;Added a way to detect if there are expired contracts for students and tutors can only see contracts that are not expired.&#10;&#10;Created a view expired contract page for students to renew or reuse expired contracts." />
+    <MESSAGE value="- Added Patch Interface for PATCH request&#10;- a testing class is added to test if the PATCH request is working (will be removed)&#10;- A new package named PatchInterface is added &#10;- A new interface named UpdateMessage is added to allow user to update existing message" />
+    <MESSAGE value="- Added TutorDashBoard ui and controller&#10;- Removed TODO items in PATCH and UpdateOfferController&#10;- Added new Action TutorDashBoard into TutorActions&#10;- Added a Button to allow user to subscribe to bids in ViewBidsController&#10;- Create a new patch interface UpdateBid to update additional info in the bid&#10;- Note: Timer is not working as it is called before user clicked on the page." />
+    <MESSAGE value="Made a notification system that displays contracts that will expire in 1 month that is only shown once for both parties of the contract.&#10;&#10;added new fields into contract's additionalInfo field. they are &quot;offer&quot;, &quot;studentSeen&quot; and &quot;tutorSeen&quot;.&#10;&#10;offer - boolean to state whether this contract is an offer for renewal or reuse&#10;&#10;studentSeen - boolean to know if the student of the contract have seen the notification that the contract will expire in 1 month.&#10;&#10;tutorSeen - boolean to know if the tutor of the contract have seen the notification that the contract will expire in 1 month." />
+    <MESSAGE value="Student can now renew or reuse expired contracts.&#10;&#10;Student can change the contract's terms of engagement before renewing or reusing.&#10;&#10;Note: Tutors can not see the offer contracts yet" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="- Added a method in View to get the last UI page&#10;- MakeOfferUI and UpdateOfferUI returns to the correct last UI page when the back button or when the offer is made/updated&#10;- Removed spacing between offer and button in TutorDashboardController&#10;- TutorDashboardController only shows active subscribed bids" />
+    <MESSAGE value="removed println statement for debugging purpose in TutorDashboardController" />
+    <MESSAGE value="- Fixed subscribe button issue&#10;- Fixed timer issue in TutorDashboardController" />
+    <MESSAGE value="moved classes and interfaces into packages" />
+    <MESSAGE value="fixed button text of UI's button that where changed when classes wre moved to packages" />
+    <MESSAGE value="fixed messages in code that uses &quot;Tutor&quot; and &quot;Student&quot;. This is due to the time when we moved the classes into respective packages" />
+    <MESSAGE value="added demo video" />
+    <MESSAGE value="deleted testing.java." />
+    <MESSAGE value="Upload contribution_analytics, cover sheet, class diagram &amp; design rationale" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload contribution_analytics, cover sheet, class diagram &amp; design rationale" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1622216850974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622216850974" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1622216850974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622216850974" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1622216850973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622216850973" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1622216850974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622216850974" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1622215986591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622215986591" />
+    <state x="209" y="33" key="new project wizard" timestamp="1626540325410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626540325410" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FIT3077_Assignment2$Main.ic" NAME="Main Coverage Results" MODIFIED="1621564631793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
